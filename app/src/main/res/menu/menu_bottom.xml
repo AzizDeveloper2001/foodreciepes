@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/homeFragment"
+    android:title="Asosiy"
+    android:icon="@drawable/home_icon"
+    app:cnb_iconColor="@color/white"/>
+    <item android:id="@+id/categoryFragment"
+        android:title="Kategoriya"
+        android:icon="@drawable/category_icon"
+        app:cnb_iconColor="@color/white"/>
+    <item android:id="@+id/favouriteFragment"
+        android:title="Yoqtirilganlar"
+        android:icon="@drawable/favourite"
+        app:cnb_iconColor="@color/white"/>
+
+
+</menu>
